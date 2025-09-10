@@ -1,10 +1,10 @@
-🤖 Project Newt
+#🤖 Project Newt
 
 Project Newt is a personal robotics project aimed at developing a companion robot with remote control, autonomous navigation, and interactive features.
 The goal is to start small — differential drive, joystick control, servo-based pan/tilt — and gradually scale up to higher-level control with ROS2, SLAM, and web-based monitoring.
 
-📌 Project Roadmap
-✅ Completed
+##📌 Project Roadmap
+###✅ Completed
 
 Implemented differential drive control
 
@@ -16,13 +16,13 @@ Added ESP-NOW communication for remote control
 
 Started CAD modeling of the robot
 
-🚧 In Progress
+###🚧 In Progress
 
 Mechanical assembly of the robot chassis
 
 Integration of subsystems (drive, servos, comms)
 
-🔜 Next Steps
+###🔜 Next Steps
 
 Test remote drive + pan/tilt controls
 
